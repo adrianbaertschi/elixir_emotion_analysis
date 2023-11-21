@@ -1,4 +1,7 @@
-# Hello
+# Elixir Bumblebee - Text analysis
+
+
+https://huggingface.co/blog/elixir-bumblebee
 
 ## Setup for WSL (Debian)
 
